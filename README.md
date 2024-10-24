@@ -21,7 +21,6 @@ pytorch
 torchvision
 numpy
 scipy
-h5py (fashionGen)
 ```
 
 ### Datasets & Pre-trained Models
@@ -49,7 +48,7 @@ The pre-trained ADA-PGGAN model is saved as `network-snapshot-000600.pkl` and ca
 
 ```bash
 python encode_image.py
-aligned_image.jpg
+test.png
 dlatents.npy
 --use_latent_finder true # Activates model.
 --image_to_latent_path ./image_to_latent_ada.pt # Specifies path to model.

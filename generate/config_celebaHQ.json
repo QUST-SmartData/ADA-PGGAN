@@ -1,6 +1,0 @@
-{
-  "pathDB": "1024_slice_500",
-  "config": {
-    "miniBatchScheduler": {"7": 8, "8": 1}
-  }
-}
