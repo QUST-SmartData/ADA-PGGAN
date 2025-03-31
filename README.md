@@ -62,3 +62,12 @@ Interpolate the potential vector obtained by RVION:
 python interpolation.py
 ```
 
+## Acknowledgements
+
+The code presented is mainly from the [facebook](https://github.com/facebookresearch/pytorch_GAN_zoo)and [jacobhallberg](https://github.com/jacobhallberg/pytorch_stylegan_encoder). The relevant papers are:
+
+- Karras T, Aila T, Laine S, et al. Progressive growing of gans for improved quality, stability, and variation[J]. arXiv preprint arXiv:1710.10196, 2017. 
+
+- Shen Y, Yang C, Tang X, et al. Interfacegan: Interpreting the disentangled face representation learned by gans[J]. IEEE transactions on pattern analysis and machine intelligence, 2020, 44(4): 2004-2018.
+
+- You N, Li Y E, Cheng A. 3D carbonate digital rock reconstruction using progressive growing GAN[J]. Journal of Geophysical Research: Solid Earth, 2021, 126(5): e2021JB021687.
